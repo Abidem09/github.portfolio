@@ -175,21 +175,3 @@ public class libraryManagement {
         }
     }
 }
-
-// Monkey King, Curer Elis, Fiction
-//
-//
-//Ninety Eight hours, Agatha Christie, Romance
-//
-//Murder on the Orient, Mary Westcott, Mystery
-//
-//
-//Death on the Nile, Mary Westcott, Mystery
-//
-//Jane Eyre, Curer Elis, Fiction
-//
-//
-//The Tenant of Wild fell Hall, Curer Elis, Mystery
-//
-//
-//Wuthering Heights, Acton Bell, Romance
